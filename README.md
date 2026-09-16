@@ -13,7 +13,7 @@ interests     : Fullstack utvikling · Backend · Databaser
 
 ### 🛠️ Tech stack
 
-![Java](https://skillicons.dev/icons?i=java,c,mysql,git,github,vscode,python)
+![Java](https://skillicons.dev/icons?i=java,c,mysql,git,github,vscode,python,javascript)
 
 
 
